@@ -1,2 +1,0 @@
-#this is the very first file i made for using github
-okay so iam making some changes here to track my changes in git.
